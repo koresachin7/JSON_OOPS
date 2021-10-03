@@ -1,0 +1,38 @@
+{
+  "Rice": [
+    {
+      "name": "Brown Rice",
+      "weight": 5,
+      "price": 80
+    },
+    {
+      "name": "Basmati Rice",
+      "weight": 5,
+      "price": 120
+    }
+  ],
+  "Wheat": [
+    {
+      "name": "Atta",
+      "weight": 4,
+      "price": 30
+    },
+    {
+      "name": "Ashirvada",
+      "weight": 7,
+      "price": 50
+    }
+  ],
+  "Pulses": [
+    {
+      "name": "Tur dal",
+      "weight": 7,
+      "price": 120
+    },
+    {
+      "name": "Black dal",
+      "weight": 4,
+      "price": 150
+    }
+  ]
+}
