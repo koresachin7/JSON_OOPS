@@ -1,0 +1,19 @@
+{
+  "Stock": [
+    {
+      "stockName": "Wipro ",
+      "numberOfShare": 100,
+      "sharePrice": 800.60
+    },
+    {
+      "stockName": "TCS",
+      "numberOfShare": 250,
+      "sharePrice": 3500.52
+    },
+    {
+      "stockName": "SBI",
+      "numberOfShare": 1452,
+      "sharePrice": 400.14
+    }
+  ]
+}
